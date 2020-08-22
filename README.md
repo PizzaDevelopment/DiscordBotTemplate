@@ -5,13 +5,13 @@ A simple bot template made with discord.js
 This bot template includes a simple Config and some simple commands
 
 # Requirements
-- node.js Version 8.0.0 or higher
+- node.js Version <code>8.0.0</code> or higher
 - discord.js
 - Your bot token (Create a bot at https://discord.com/developers/applications)
 
 # Using the Bot
 1) Open the command line and navigate to your bot's folder (Where you have placed the index.js)
- - You can SHIFT + Right Click inside the Bot's folder for a shortcut
+ - You can <code>SHIFT + Right Click</code> inside the Bot's folder for a shortcut
 2) Once the cmd line is up, type <code>node index.js</code>
 3) Your bot should now be running, you can now use it
 
